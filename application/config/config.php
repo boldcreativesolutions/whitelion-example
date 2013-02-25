@@ -14,8 +14,8 @@
 | path to your installation.
 |
 */
-// $config['base_url']	= 'http://whitelion.boldcreativesolutions.com/';
-$config['base_url']	= 'http://dev.whitelion.com/';
+$config['base_url']	= 'http://whitelion.boldcreativesolutions.com/';
+
 
 /*
 |--------------------------------------------------------------------------
